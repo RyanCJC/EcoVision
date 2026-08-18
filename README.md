@@ -50,7 +50,7 @@ samples, guidance on mobile development, and a full API reference.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/recycle-detection-app.git
+   git clone https://github.com/RyanCJC/EcoVision.git
    cd recycle-detection-app
    ```
 2. Get dependencie
